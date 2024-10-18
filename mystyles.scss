@@ -1,0 +1,21 @@
+@import "reset";
+$a: to-lower-case("BABY");
+
+$myColor: pink;
+
+div {
+    h1 {
+        color: $myColor;
+        text-decoration: underline;
+        font: {
+            weight: bold;
+            size: 50px;
+        }
+    }
+    p {
+        color: red;
+        font: {
+            size: 30px;
+        }
+    }
+}
