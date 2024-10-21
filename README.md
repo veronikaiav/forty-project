@@ -15,5 +15,25 @@ https://html5up.net/forty
 2. Main-page
    - header
    - text
-   - button get-started
-3. 
+   - button get-started-arrow
+3. Box Block
+  - box-block-item
+    - item-header
+    - item-text
+4. Article Block
+  - header
+  - text
+  - button get-started-arrow
+5. Contact Block
+  - contact form
+  - button send-message
+  - button clear
+  - contacts-item
+   - icon
+   - header
+   - text
+6. Footer
+  - social-icon
+  - text
+  - link
+
